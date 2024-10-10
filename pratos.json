@@ -4,5 +4,23 @@
         "imagem": "https://i.imgur.com/OExyYY2.png",
         "description": "Suculentos camarões com infusão de manteiga e alho escaldantes em um saboroso molho de creme, misturados com macarrão perfeitamente cozido.",
         "restaurant": "Olive Garden"
+    },
+    {
+        "title": "Prato Feito de Bife",
+        "imagem": "https://i.imgur.com/a1Bq4kZ.png",
+        "description": "Bife grelhado suculento, acompanhado de arroz, feijão, batata frita e salada fresca.",
+        "restaurant": "Restaurante Sabor Caseiro"
+    },
+    {
+        "title": "Pizza de Calabresa",
+        "imagem": "https://i.imgur.com/NQ8tYQ8.png",
+        "description": "Pizza crocante com generosas fatias de calabresa, queijo derretido e cebola, servida com orégano e azeitonas.",
+        "restaurant": "Pizzaria da Esquina"
+    },
+    {
+        "title": "Hambúrguer Clássico",
+        "imagem": "https://i.imgur.com/ZHz3m5k.png",
+        "description": "Pão brioche macio, hambúrguer de carne suculenta, queijo cheddar, alface, tomate, cebola e molho especial.",
+        "restaurant": "Burger Spot"
     }
 ]
