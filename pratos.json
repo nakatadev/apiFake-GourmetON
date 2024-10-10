@@ -7,19 +7,19 @@
     },
     {
         "title": "Prato Feito de Bife",
-        "imagem": "https://i.imgur.com/a1Bq4kZ.png",
+        "imagem": "https://i.imgur.com/oryfPpI.png",
         "description": "Bife grelhado suculento, acompanhado de arroz, feijão, batata frita e salada fresca.",
         "restaurant": "Restaurante Sabor Caseiro"
     },
     {
         "title": "Pizza de Calabresa",
-        "imagem": "https://i.imgur.com/NQ8tYQ8.png",
+        "imagem": "https://i.imgur.com/v0UBa22.png",
         "description": "Pizza crocante com generosas fatias de calabresa, queijo derretido e cebola, servida com orégano e azeitonas.",
         "restaurant": "Pizzaria da Esquina"
     },
     {
         "title": "Hambúrguer Clássico",
-        "imagem": "https://i.imgur.com/ZHz3m5k.png",
+        "imagem": "https://i.imgur.com/uDdIW6D.png",
         "description": "Pão brioche macio, hambúrguer de carne suculenta, queijo cheddar, alface, tomate, cebola e molho especial.",
         "restaurant": "Burger Spot"
     }
